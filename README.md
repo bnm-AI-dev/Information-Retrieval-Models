@@ -1,6 +1,6 @@
 # Information Retrieval System
 
-This project implements an information retrieval system using various techniques such as TF-IDF and Word2Vec. The system is designed to search through a large collection of news articles and retrieve relevant documents based on user queries. The full research article writing about information retrieval systems can be found [here]([https://github.com/BrianMutisyo/Information-Retrieval-System/blob/main/Research%20Paper.pdf](https://github.com/bnm-AI-dev/Information-Retrieval-Models/blob/master/InformationRetrievalModels%20(1).pdf))
+This project implements an information retrieval system using various techniques such as TF-IDF and Word2Vec. The system is designed to search through a large collection of news articles and retrieve relevant documents based on user queries. The full research article writing about information retrieval systems can be found [here](https://github.com/bnm-AI-dev/Information-Retrieval-Models/blob/master/InformationRetrievalModels%20(1).pdf)
 
 ## Project Structure
 
